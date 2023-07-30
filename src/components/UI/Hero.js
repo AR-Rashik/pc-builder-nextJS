@@ -20,9 +20,10 @@ const Hero = () => {
             </h1>
             <div className="f-f-r text-base lg:text-base pb-20 sm:pb-0 pt-10 xl:pt-6">
               <h2>
-                The next big thing starts here. Start building with Prodify and
-                be the first to market with a product that is ready to take on
-                the competition and delight your customers
+                The next big thing starts here. Leading Computer, Laptop &
+                Gaming PC Retail & Online Shop in Bangladesh. Trusted Online
+                Shopping From Bangladesh at The Best E-Commerce Website. Best
+                Price, Product, After-sales Customer Service, & Fastest Delivery
               </h2>
             </div>
             <div className="lg:flex">
